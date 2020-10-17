@@ -1,3 +1,3 @@
 # Covid-19-detection-using-Pytorch
 
-Early detection of COVID-19 using CXR images. 
+Deep Learning approach for the early detection of COVID-19 using CXR images. 
